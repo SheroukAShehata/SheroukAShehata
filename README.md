@@ -24,7 +24,7 @@ I am a Business Analyst passionate about transforming data into actionable insig
 ### 💡 Projects  
 
 
-Check out my **[repositories](https://github.com/SheroukAShehata.io)** for more details!
+Check out my **[repositories](https://github.com/SheroukAShehata?tab=repositories)** for more details!
 
 ---
 
